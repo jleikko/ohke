@@ -28,7 +28,7 @@
 ### JSP
 
 * [Demo 2](demot/d02-jsp)
-* [Tehtävä 2](teht/t02-jsp.md)
+* [Tehtävä 2 - DL 1.9.](teht/t02-jsp.md)
 
 ### HTTP
 
@@ -47,7 +47,7 @@
 ### Lomakkeet
 
 * [Demo 3](demot/d03-form)
-* [Tehtävä 3](teht/t03-form.md)
+* [Tehtävä 3 DL 5.9.](teht/t03-form.md)
 
 ### JSTL
 
