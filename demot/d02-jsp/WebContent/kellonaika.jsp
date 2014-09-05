@@ -4,7 +4,7 @@
     pageEncoding="ISO-8859-1"%>
     
 <%
-SimpleDateFormat formatoija = new SimpleDateFormat("dd.MM.yyyy HH.mm.ss");
+SimpleDateFormat formatoija = new SimpleDateFormat("HH:mm:ss");
 Date nykyhetki = new Date();
 String muotoiltuAika = formatoija.format(nykyhetki);    
 %>
