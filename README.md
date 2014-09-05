@@ -52,12 +52,12 @@
 ### JSTL
 
 * [Demo 4](demot/d04-jstl)
-* [Tehtävä 4](teht/t04-jstl.md)
+* [Tehtävä 4 DL 12.9.](teht/t04-jstl.md)
 
 ### Sessio
 
 * [Demo 5](demot/d05-session)
-* [Tehtävä 5](teht/t05-session.md)
+* [Tehtävä 5 DL 12.9.](teht/t05-session.md)
 
 ## 3. Tietokantasovellukset
 
