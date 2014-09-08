@@ -64,7 +64,7 @@
 ### JDBC
 
 * [Demo 6](demot/d06-jdbc)
-* [Tehtävä 6](teht/t06-jdbc.md)
+* [Tehtävä 6 DL 12.9.](teht/t06-jdbc.md)
 
 ### DAO
 
