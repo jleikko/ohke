@@ -47,24 +47,24 @@
 ### Lomakkeet
 
 * [Demo 3](demot/d03-form)
-* [Tehtävä 3 DL 5.9.](teht/t03-form.md)
+* [Tehtävä 3 - DL 5.9.](teht/t03-form.md)
 
 ### JSTL
 
 * [Demo 4](demot/d04-jstl)
-* [Tehtävä 4 DL 12.9.](teht/t04-jstl.md)
+* [Tehtävä 4 - DL 12.9.](teht/t04-jstl.md)
 
 ### Sessio
 
 * [Demo 5](demot/d05-session)
-* [Tehtävä 5 DL 12.9.](teht/t05-session.md)
+* [Tehtävä 5 - DL 12.9.](teht/t05-session.md)
 
 ## 3. Tietokantasovellukset
 
 ### JDBC
 
 * [Demo 6](demot/d06-jdbc)
-* [Tehtävä 6 DL 12.9.](teht/t06-jdbc.md)
+* [Tehtävä 6 - DL 12.9.](teht/t06-jdbc.md)
 
 ### DAO
 
