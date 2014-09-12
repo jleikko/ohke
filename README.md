@@ -69,12 +69,12 @@
 ### DAO
 
 * [Demo 7](demot/d07-dao)
-* [Tehtävä 7](teht/t07-dao.md)
+* [Tehtävä 7 - DL 19.9.](teht/t07-dao.md)
 
 ### Prepared Statement
 
 * [Demo 8](demot/d08-prepstat)
-* [Tehtävä 8](teht/t08-prepstat.md)
+* [Tehtävä 8 - DL 19.9.](teht/t08-prepstat.md)
 
 ## 4. Versionhallinta
 
