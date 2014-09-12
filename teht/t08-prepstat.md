@@ -7,6 +7,3 @@
 
 ## Servlet
 * Tallenna controllerin doPost-metodissa vastaanotettu Pizza DAO-luokan avulla tietokantaan.
-
-## Pizzan poistaminen
-* TODO
