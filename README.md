@@ -23,12 +23,12 @@
 ### Servletit
 
 * [Demo 1](demot/d01-servlet)
-* [Tehtävä 1 - DL 29.8.](teht/t01-servlet.md)
+* [Tehtävä 1 - DL 28.8.](teht/t01-servlet.md)
 
 ### JSP
 
 * [Demo 2](demot/d02-jsp)
-* [Tehtävä 2 - DL 1.9.](teht/t02-jsp.md)
+* [Tehtävä 2 - DL 31.8.](teht/t02-jsp.md)
 
 ### HTTP
 
@@ -47,34 +47,34 @@
 ### Lomakkeet
 
 * [Demo 3](demot/d03-form)
-* [Tehtävä 3 - DL 5.9.](teht/t03-form.md)
+* [Tehtävä 3 - DL 4.9.](teht/t03-form.md)
 
 ### JSTL
 
 * [Demo 4](demot/d04-jstl)
-* [Tehtävä 4 - DL 12.9.](teht/t04-jstl.md)
+* [Tehtävä 4 - DL 7.9.](teht/t04-jstl.md)
 
 ### Sessio
 
 * [Demo 5](demot/d05-session)
-* [Tehtävä 5 - DL 12.9.](teht/t05-session.md)
+* [Tehtävä 5 - DL 7.9.](teht/t05-session.md)
 
 ## 3. Tietokantasovellukset
 
 ### JDBC
 
 * [Demo 6](demot/d06-jdbc)
-* [Tehtävä 6 - DL 12.9.](teht/t06-jdbc.md)
+* [Tehtävä 6 - DL 11.9.](teht/t06-jdbc.md)
 
 ### DAO
 
 * [Demo 7](demot/d07-dao)
-* [Tehtävä 7 - DL 19.9.](teht/t07-dao.md)
+* [Tehtävä 7 - DL 14.9.](teht/t07-dao.md)
 
 ### Prepared Statement
 
 * [Demo 8](demot/d08-prepstat)
-* [Tehtävä 8 - DL 19.9.](teht/t08-prepstat.md)
+* [Tehtävä 8 - DL 14.9.](teht/t08-prepstat.md)
 
 ## 4. Versionhallinta
 
@@ -85,7 +85,7 @@
 ### Git
 
 * clone, pull, add, commit, push
-* [Tehtävä 9](teht/t09-git.md)
+* [Tehtävä 9 - DL 18.9.](teht/t09-git.md)
 
 ## 5. Ohjelmistosuunnittelu
 
@@ -104,10 +104,10 @@
 #### Suunnittelutason luokkakaavio
 
 * Valkotaululla
-* [Tehtävä 10](teht/t10-uml_class.md)
+* [Tehtävä 10 - DL 21.9.](teht/t10-uml_class.md)
 
 #### Sekvenssikaavio ohjelman etenemisestä
 
 * Valkotaululla
-* [Tehtävä 11](teht/t11-uml_seq.md)
+* [Tehtävä 11 - DL 21.9.](teht/t11-uml_seq.md)
 
