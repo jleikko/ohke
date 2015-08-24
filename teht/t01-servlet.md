@@ -7,7 +7,7 @@ Avaa Eclipse ja vaihda näkymäksi Java EE -perspektiivi
 ## Tomcat
 
 * Luo Eclipseen uusi Tomcat-palvelininstanssi
-* *Eclipse -> File -> New -> Other... -> Server -> Apache -> Tomcat v7.0 Server -> Browse... -> C:\install\apache-tomcat-7.0.39*
+* *Eclipse -> File -> New -> Other... -> Server -> Apache -> Tomcat v8.0 Server -> Browse... -> C:\install\apache-tomcat-8.0.21*
 
 ## Esimerkkikoodit
 
@@ -16,7 +16,7 @@ Avaa Eclipse ja vaihda näkymäksi Java EE -perspektiivi
 
 ##Projekti
 
-* Luo uusi dynaaminen webbiprojekti eclipsellä ja anna sen nimeksi PizzeriaAdmin. (Target Runtime: Tomcat 7)
+* Luo uusi dynaaminen webbiprojekti eclipsellä ja anna sen nimeksi PizzeriaAdmin. (Target Runtime: Tomcat 8)
 
 ##Bean
 
