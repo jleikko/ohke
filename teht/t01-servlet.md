@@ -16,7 +16,7 @@ Avaa Eclipse ja vaihda näkymäksi Java EE -perspektiivi
 
 ##Projekti
 
-* Luo uusi dynaaminen webbiprojekti eclipsellä ja anna sen nimeksi PizzeriaAdmin. (Target Runtime: Tomcat 7)
+* Luo uusi dynaaminen webbiprojekti eclipsellä ja anna sen nimeksi PizzeriaAdmin. (Target Runtime: Tomcat 8)
 
 ##Bean
 
