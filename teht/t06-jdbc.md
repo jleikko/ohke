@@ -12,7 +12,7 @@
   * id (automaattisesti kasvava kokonaisluku)
   * nimi (merkkijono)
   * hinta (desimaaliluku)
-* Piirrä taulusta kuva työkalulla draw.io
+* Piirrä taulusta kuva työkalulla http://draw.io
 * Kirjoita taululle luontiskripti ja aja se protopalvelimella sijaitsevaan henkilökohtaiseen tietokantaasi
 
 ## MariaDB JDBC Driver
