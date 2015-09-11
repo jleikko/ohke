@@ -13,7 +13,7 @@
   * nimi (merkkijono)
   * hinta (desimaaliluku)
 * Piirrä taulusta kuva työkalulla http://draw.io
-* Kirjoita taululle luontiskripti ja aja se protopalvelimella sijaitsevaan henkilökohtaiseen tietokantaasi
+* Kirjoita taululle luontiskripti sekä pizzojen lisäysskripti, ja aja skriptit protopalvelimella sijaitsevaan henkilökohtaiseen tietokantaasi
 
 ## MariaDB JDBC Driver
 
