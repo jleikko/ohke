@@ -64,17 +64,17 @@
 ### JDBC
 
 * [Demo 6](demot/d06-jdbc)
-* [Tehtävä 6 - DL 11.9.](teht/t06-jdbc.md)
+* [Tehtävä 6 - DL 25.9.](teht/t06-jdbc.md)
 
 ### DAO
 
 * [Demo 7](demot/d07-dao)
-* [Tehtävä 7 - DL 14.9.](teht/t07-dao.md)
+* [Tehtävä 7 - DL 25.9.](teht/t07-dao.md)
 
 ### Prepared Statement
 
 * [Demo 8](demot/d08-prepstat)
-* [Tehtävä 8 - DL 14.9.](teht/t08-prepstat.md)
+* [Tehtävä 8 - DL 25.9.](teht/t08-prepstat.md)
 
 ## 4. Versionhallinta
 
@@ -85,7 +85,6 @@
 ### Git
 
 * clone, pull, add, commit, push
-* [Tehtävä 9 - DL 18.9.](teht/t09-git.md)
 
 ## 5. Ohjelmistosuunnittelu
 
@@ -104,10 +103,8 @@
 #### Suunnittelutason luokkakaavio
 
 * Valkotaululla
-* [Tehtävä 10 - DL 21.9.](teht/t10-uml_class.md)
 
 #### Sekvenssikaavio ohjelman etenemisestä
 
 * Valkotaululla
-* [Tehtävä 11 - DL 21.9.](teht/t11-uml_seq.md)
 
